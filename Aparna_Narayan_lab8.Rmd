@@ -1,7 +1,7 @@
 ---
-title: "Untitled"
-author: ""
-date: ""
+title: "Lab 8"
+author: "Aparna Sridhar Narayan"
+date: "04/05/17"
 output: 
   html_document:
     fig_height: 3
